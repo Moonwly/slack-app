@@ -1,7 +1,6 @@
 package com.microstrategy.slackapp.controller;
 
 import com.google.gson.Gson;
-import com.microstrategy.slackapp.consts.Consts;
 import com.microstrategy.slackapp.model.interactive.Action;
 import com.microstrategy.slackapp.model.interactive.ChatResponse;
 import com.microstrategy.slackapp.model.interactive.Payload;

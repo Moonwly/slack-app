@@ -27,3 +27,7 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+
+src/main/java/com/microstrategy/slackapp/consts/Consts.java
+

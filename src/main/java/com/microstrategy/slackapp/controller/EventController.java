@@ -2,7 +2,6 @@ package com.microstrategy.slackapp.controller;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.microstrategy.slackapp.consts.Consts;
 import com.microstrategy.slackapp.model.common.Attachments;
 import com.microstrategy.slackapp.model.event.Event;
 import com.microstrategy.slackapp.model.interactive.Action;
