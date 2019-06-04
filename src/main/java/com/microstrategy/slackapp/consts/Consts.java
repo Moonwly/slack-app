@@ -9,7 +9,7 @@ public class Consts {
 
     public static String VERIFICATION_TOKEN = "VAUeekJXsRGM1RrMkt9Gmp1f";
 
-    public static String OAUTH_ACCESS_TOKEN_WLY = "xoxp-13984615488-622006337490-642857688866-95e419d1a5a63a291ed2d12319e97140";
+    public static String OAUTH_ACCESS_TOKEN_WLY = "xoxp-13984615488-622006337490-643045136899-7908bbd8dd33a0d9e9917c2bb0371eea";
 
 
 }

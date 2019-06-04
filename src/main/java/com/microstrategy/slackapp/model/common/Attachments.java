@@ -30,6 +30,15 @@ public class Attachments {
     private List<Action> actions;
     @SerializedName("callback_id")
     private String callbackId;
+    private String fallback;
+
+    public String getFallback() {
+        return fallback;
+    }
+
+    public void setFallback(String fallback) {
+        this.fallback = fallback;
+    }
 
     public String getCallbackId() {
         return callbackId;
@@ -38,8 +47,6 @@ public class Attachments {
     public void setCallbackId(String callbackId) {
         this.callbackId = callbackId;
     }
-
-
 
     public List<Fields> getFields() {
         return fields;
