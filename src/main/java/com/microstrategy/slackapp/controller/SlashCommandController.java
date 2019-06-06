@@ -20,6 +20,7 @@ public class SlashCommandController {
     @RequestMapping(value = "/getdossier", method = RequestMethod.POST)
     @ResponseBody
     public String getDossier(@RequestParam Map<String,String> params) {
+        
         Gson gson = new Gson();
         SlashCommandRespond res = new SlashCommandRespond();
         List<Attachments> attachmentList = new ArrayList<>();
